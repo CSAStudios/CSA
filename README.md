@@ -1,2 +1,2 @@
 # CSA
-An Realistic FPS Called "CSA"
+An Realistic First Person Shooter Game Called "CSA"
