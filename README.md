@@ -1,2 +1,7 @@
 # CSA
-An Realistic First Person Shooter Game Called "CSA"
+Welcome to our first game called "CSA"
+
+Its an Realistic FPS game and using Unreal Engine Technologie!
+
+Founder: Alperen Yörük
+Developer: Alperen Yörük
