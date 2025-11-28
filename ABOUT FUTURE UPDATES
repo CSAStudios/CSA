@@ -1,0 +1,35 @@
+About the FUTURE UPDATES!
+
+29 November 2025
+
+CSA 0.0.0.7 Update Notes | Introducing Hit Registration
+
+[ GAMEPLAY ]
+–Added Hit Registration
+
+[ SOUNDS ]
+-Adjusted volume of round win,lost
+
+[ MISC ]
+-Fixed character ragdoll system
+-Fixed multiplayer
+-Fixed occlusion culling problems
+-Fixed AI moving task
+-Fixed AI ragdoll system
+–Stability improvement
+
+29 December 2025
+
+CSA 0.0.0.7.f1 Update Notes | NEW CHARACTER, UI AND NEW AI
+
+[ CHARACTER ]
+–Added a new character
+
+[ UI ]
+–Added a new user interface
+–Added Several background tracks
+
+[ AI ]
+-Added AI 1.5
+-Improved moving task
+-Added attack system
